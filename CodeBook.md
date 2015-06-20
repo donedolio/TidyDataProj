@@ -53,70 +53,135 @@ Our modified data set is based on the original data set. The following are the m
 Tidy data set variables:
 
 3) *Mean-tBodyAcc-mean-X*
+
 4) *Mean-tBodyAcc-mean-Y*
+
 5) *Mean-tBodyAcc-mean-Z*
+
 6) *Mean-tBodyAcc-std-X*
+
 7) *Mean-tBodyAcc-std-Y*
+
 8) *Mean-tBodyAcc-std-Z*
+
 9) *Mean-tGravityAcc-mean-X*
+
 10) *Mean-tGravityAcc-mean-Y*
+
 11) *Mean-tGravityAcc-mean-Z*
+
 12) *Mean-tGravityAcc-std-X*
+
 13) *Mean-tGravityAcc-std-Y*
+
 14) *Mean-tGravityAcc-std-Z*
+
 15) *Mean-tBodyAccJerk-mean-X*
+
 16) *Mean-tBodyAccJerk-mean-Y*
+
 17) *Mean-tBodyAccJerk-mean-Z*
+
 18) *Mean-tBodyAccJerk-std-X*
+
 19) *Mean-tBodyAccJerk-std-Y*
+
 20) *Mean-tBodyAccJerk-std-Z*
+
 21) *Mean-tBodyGyro-mean-X*
+
 22) *Mean-tBodyGyro-mean-Y*
+
 23) *Mean-tBodyGyro-mean-Z*
+
 24) *Mean-tBodyGyro-std-X*
+
 25) *Mean-tBodyGyro-std-Y*
+
 26) *Mean-tBodyGyro-std-Z*
+
 27) *Mean-tBodyGyroJerk-mean-X*
+
 28) *Mean-tBodyGyroJerk-mean-Y*
+
 29) *Mean-tBodyGyroJerk-mean-Z*
+
 30) *Mean-tBodyGyroJerk-std-X*
+
 31) *Mean-tBodyGyroJerk-std-Y*
+
 32) *Mean-tBodyGyroJerk-std-Z*
+
 33) *Mean-tBodyAccMag-mean*
+
 34) *Mean-tBodyAccMag-std*
+
 35) *Mean-tGravityAccMag-mean*
+
 36) *Mean-tGravityAccMag-std*
+
 37) *Mean-tBodyAccJerkMag-mean*
+
 38) *Mean-tBodyAccJerkMag-std*
+
 39) *Mean-tBodyGyroMag-mean*
+
 40) *Mean-tBodyGyroMag-std*
+
 41) *Mean-tBodyGyroJerkMag-mean*
+
 42) *Mean-tBodyGyroJerkMag-std*
+
 43) *Mean-fBodyAcc-mean-X*
+
 44) *Mean-fBodyAcc-mean-Y*
+
 45) *Mean-fBodyAcc-mean-Z*
+
 46) *Mean-fBodyAcc-std-X*
+
 47) *Mean-fBodyAcc-std-Y*
+
 48) *Mean-fBodyAcc-std-Z*
+
 49) *Mean-fBodyAccJerk-mean-X*
+
 50) *Mean-fBodyAccJerk-mean-Y*
+
 51) *Mean-fBodyAccJerk-mean-Z*
+
 52) *Mean-fBodyAccJerk-std-X*
+
 53) *Mean-fBodyAccJerk-std-Y*
+
 54) *Mean-fBodyAccJerk-std-Z*
+
 55) *Mean-fBodyGyro-mean-X*
+
 56) *Mean-fBodyGyro-mean-Y*
+
 57) *Mean-fBodyGyro-mean-Z*
+
 58) *Mean-fBodyGyro-std-X*
+
 59) *Mean-fBodyGyro-std-Y*
+
 60) *Mean-fBodyGyro-std-Z*
+
 61) *Mean-fBodyAccMag-mean*
+
 62) *Mean-fBodyAccMag-std*
+
 63) *Mean-fBodyBodyAccJerkMag-mean*
+
 64) *Mean-fBodyBodyAccJerkMag-std*
+
 65) *Mean-fBodyBodyGyroMag-mean*
+
 66) *Mean-fBodyBodyGyroMag-std*
+
 67) *Mean-fBodyBodyGyroJerkMag-mean*
+
 68) *Mean-fBodyBodyGyroJerkMag-std*
 
 **References**
